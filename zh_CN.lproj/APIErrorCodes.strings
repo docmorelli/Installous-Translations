@@ -1,0 +1,59 @@
+/* Action not found */
+"Action not found" = "找不到指定动作";
+
+/* API unavailable */
+"API unavailable" = "程序接口不可用";
+
+/* Bad request */
+"Bad request" = "无效请求";
+
+/* Forbidden */
+"Forbidden" = "禁止";
+
+/* Format not accepted */
+"Format not accepted" = "格式不被接受";
+
+/* Internal Server error */
+"Internal Server error" = "服务器内部错误";
+
+/* Invalid Auth */
+"Invalid Auth" = "无效验证";
+
+/* Not implemented */
+"Not implemented" = "未集成";
+
+/* OK */
+"OK" = "确定";
+
+/* Object not found */
+"Object not found" = "对象未找到";
+
+/* Partially accepted */
+"Partially accepted" = "部分接受";
+
+/* Partially created */
+"Partially created" = "部分创建";
+
+/* Permission denied */
+"Permission denied" = "无访问权限";
+
+/* Resource not found */
+"Resource not found" = "资源未找到";
+
+/* Ressource Timeout */
+"Ressource Timeout" = "资源超时";
+
+/* Service unavailable */
+"Service unavailable" = "服务不可用";
+
+/* Successfully accepted */
+"Successfully accepted" = "成功接受";
+
+/* Successfully created */
+"Successfully created" = "成功创建";
+
+/* Unacceptable data */
+"Unacceptable data" = "不可接受的数据";
+
+/* Unknown error */
+"Unknown error" = "未知错误";

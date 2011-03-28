@@ -1,0 +1,14 @@
+/* No comment provided by engineer. */
+"GCDAsyncSocketClosedError" = "套接字被远端终止";
+
+/* No comment provided by engineer. */
+"GCDAsyncSocketConnectTimeoutError" = "尝试连接超时";
+
+/* No comment provided by engineer. */
+"GCDAsyncSocketReadMaxedOutError" = "读取操作已到设定最大长度";
+
+/* No comment provided by engineer. */
+"GCDAsyncSocketReadTimeoutError" = "读取操作超时";
+
+/* No comment provided by engineer. */
+"GCDAsyncSocketWriteTimeoutError" = "写入操作超时";

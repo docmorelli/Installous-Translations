@@ -1,0 +1,343 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d 個可用更新";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "%2$i 頁中的第 %1$i 頁";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 個可用更新";
+
+/* About title */
+"About" = "關於";
+
+"Search" = "搜尋";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "正在分析 %@…";
+
+/* Announcement title */
+"Announcement" = "通告";
+
+/* API Error title */
+"API Error" = "程式接口錯誤";
+
+/* Application Description title */
+"Application Description:" = "應用程式描述：";
+
+/* report reason */
+"Application doesn't launch." = "應用程式無法啟動。";
+
+/* Application will not install. */
+"Application will not install." = "應用程式無法安裝。";
+
+/* No comment provided by engineer. */
+"Apps" = "應用程式";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "應用程式和更新";
+
+/* apptrackr Password  */
+"apptrackr Password " = "apptrackr 密碼 ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "apptrackr 用戶名 ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "快取 %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "快取全部應用程式";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* Categories title */
+"Categories" = "分類";
+
+/* Company title */
+"Company" = "開發商";
+
+/* displayed when a download completed */
+"Completed" = "完成";
+
+/* Connecting... title */
+"Connecting..." = "正在連接…";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "連接 MobileHunt…";
+
+/* cracker */
+"Cracked by %@" = "破解者：%@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "未知破解者";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "當前：%1$@（更新：%2$@）";
+
+/* Delete */
+"Delete" = "刪除";
+
+/* Delete automatically */
+"Delete automatically" = "自動刪除";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Hackulous 小組開發\n\n更多資訊請訪問\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "禁用";
+
+/* Done button title */
+"Done" = "完成";
+
+/* Download title */
+"Download" = "下載";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "下載完成：%@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "下載失敗：%@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "稍後下載";
+
+/* Download now */
+"Download now" = "現在下載";
+
+/* Downloaded title */
+"Downloaded" = "已下載";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "已選中已下載的 IPA 檔案";
+
+/* Downloads, title */
+"Downloads" = "下載";
+
+/* Enabled title */
+"Enabled" = "啟用";
+
+/* Error */
+"Error" = "錯誤";
+
+/* Error building SBCache */
+"Error building SBCache" = "建立主屏幕快取錯誤";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "推送 IPA 檔案錯誤";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "搜尋更新時發生錯誤";
+
+/* displayed when a download failed */
+"Failed to download %@" = "下載 %@ 失敗";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "檔案已存在";
+
+/* Home title */
+"Home" = "主頁";
+
+/* Install */
+"Install" = "安裝";
+
+/* Install all */
+"Install all" = "全部安裝";
+
+/* Install automatically */
+"Install automatically" = "自動安裝";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "安裝完成：%@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "安裝失敗：%@";
+
+/* displayed when an application got installed */
+"Installed" = "已安裝";
+
+/* Installing... title */
+"Installing..." = "正在安裝…";
+
+/* iTunes Sync */
+"iTunes Sync" = "iTunes 同步";
+
+/* Latest Version title */
+"Latest Version" = "最新版本";
+
+/* Launch App Store */
+"Launch App Store" = "運行 App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "成功報告鏈接";
+
+/* Loading title */
+"Loading" = "載入中";
+
+/* Local Notifications */
+"Local Notifications" = "本地通知";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "本地共享";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "必須啟用本地共享以發送 IPA 檔案！";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "本地共享僅支持 iOS 4 或更高版本！";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "找不到 DSID";
+
+/* No comment provided by engineer. */
+"No Updates available" = "無可用更新";
+
+/* OK */
+"OK" = "確認";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "僅顯示 iPad 應用程式";
+
+/* report reasons */
+"Other" = "其它";
+
+/* Password */
+"Password" = "密碼";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "請在設置中輸入有效的 apptrackr 的賬戶";
+
+/* No comment provided by engineer. */
+"Popularity" = "熱門";
+
+/* Price title */
+"Price" = "價格";
+
+/* Queued */
+"Queued" = "已隊列";
+
+/* Receiving */
+"Receiving" = "正在接收";
+
+/* Release Date title */
+"Release Date" = "發布日期";
+
+/* Reload Categories */
+"Reload Categories" = "重新加載分類";
+
+/* Remove Metadata */
+"Remove Metadata" = "移除軟體頭資訊";
+
+/* Report button title */
+"Report" = "報告";
+
+/* title for small notification */
+"Reported" = "已報告";
+
+/* Requesting Categories title */
+"Requesting Categories" = "正在請求分類";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "正在請求許可";
+
+/* Requirements title */
+"Requirements:" = "需求：";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "正在掃描應用程式…";
+
+/* Searching ... title */
+"Searching ..." = "正在搜尋…";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "正在搜尋更新";
+
+/* alertview title */
+"Select Device" = "選擇設備";
+
+/* Send IPA */
+"Send IPA" = "發送 IPA 檔案";
+
+/* Settings title */
+"Settings" = "設置";
+
+/* Size title */
+"Size" = "大小";
+
+/* Started download */
+"Started" = "已開始";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() 失敗";
+
+/* report reason */
+"The filehost is very slow." = "連接伺服器的速度很慢。";
+
+/* report reason */
+"The link is dead." = "鏈接已失效。";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "無法載入沙盒";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "無法取得快取";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "無法保存快取";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "無法提交報告";
+
+/* Unexpected content error */
+"Unexpected content" = "意外內容錯誤";
+
+/* Updates title */
+"Updates" = "更新";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "更新失敗";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "已上傳";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "正在上傳檔案 ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "用戶密匙不存在";
+
+/* Username */
+"Username" = "用戶名";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "版本：%@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "查看另外 15 個應用程式";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "用 Safari 查看";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "在 App Store 中查看該應用程式";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "我們暫時還沒有應用程式“%@”，但您有！您介意在後台安全的提供一些檔案來讓我們將其提供給其他人嗎？";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "版本 %@ 更新：";
+
+/* report link title */
+"Why do you want to report this link?" = "您為什麼要報告該鏈接？";
+
+/* report reason */
+"Wrong Version" = "錯誤版本";
