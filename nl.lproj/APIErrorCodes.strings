@@ -4,7 +4,7 @@
 "Forbidden" = "Verboden";
 "Format not accepted" = "Formaat niet ondersteund";
 "Internal Server error" = "Interne Server fout";
-"Invalid Auth" = "Ongeldige Authentificatie";
+"Invalid Auth" = "Ongeldige Authenticatie";
 "Not implemented" = "Zoekopdracht niet uitgevoerd";
 "Object not found" = "Object niet gevonden";
 "OK" = "OK";
